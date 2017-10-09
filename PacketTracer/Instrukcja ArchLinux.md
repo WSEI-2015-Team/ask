@@ -38,11 +38,21 @@ https://www.netacad.com/group/offerings/all-resources/-/document_library_display
 
 Przechodzimy do katalogu w którym pobraliśmy źródła:
 
+* AUR
+
 ```
 cd packetrracer
 makepkg -ci
 
 ```
+* Github
+
+```
+cd PacketTracer/ArchLinux
+makepkg -ci
+
+```
+
 ## UWAGA!
 
 Oczywiście przed wykonaniem polecenia makpkg musimy umieścić pobrane źródła w kataogu packetrracer!!!
