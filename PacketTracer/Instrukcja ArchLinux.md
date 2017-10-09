@@ -43,6 +43,10 @@ cd packetrracer
 makepkg -ci
 
 ```
+## UWAGA!
+
+Oczywiście przed wykonaniem polecenia makpkg musimy umieścić pobrane źródła w kataogu packetrracer!!!
+
 Jest to natywny Linuksowy pakiet niewymagający wine. 
 
 
