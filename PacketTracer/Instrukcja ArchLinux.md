@@ -55,7 +55,7 @@ makepkg -ci
 
 ## UWAGA!
 
-Oczywiście przed wykonaniem polecenia makpkg musimy umieścić pobrane źródła w kataogu packetrracer!!!
+Oczywiście przed wykonaniem polecenia makepkg musimy umieścić pobrane źródła w katalogu packetrracer!!!
 
 Jest to natywny Linuksowy pakiet niewymagający wine. 
 
