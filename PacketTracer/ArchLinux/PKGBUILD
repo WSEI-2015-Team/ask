@@ -10,7 +10,7 @@ pkgver=7.1
 pkgrel=1
 pkgdesc="Network design and emulation software for Cisco's Networking Academy instructors and students."
 arch=( 'x86_64' )
-#depends_x86_64=('openssl-1.0' 'libpng12' 'icu52')
+depends_x86_64=('openssl-1.0' 'libpng12' 'icu52')
 url="http://www.netacad.com/about-networking-academy/packet-tracer"
 license=('custom')
 
@@ -80,4 +80,3 @@ package() {
   sed 's/\/opt\/pt/\/usr\/share\/packettracer/' -i "${pkgdir}/usr/share/applications/Cisco-PacketTracer.desktop"
   rm "${pkgdir}/usr/share/packettracer/bin/Cisco-PacketTracer.desktop"
 }
-
