@@ -50,5 +50,9 @@ Oczywiście przed wykonaniem polecenia makpkg musimy umieścić pobrane źródł
 Jest to natywny Linuksowy pakiet niewymagający wine. 
 
 
+<p align="center">
+  <img src="https://s1.postimg.org/30uzz233of/cisco_packet_tracer_linux.png" alt="cistopt"/>
+</p>
+
 
 
