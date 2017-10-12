@@ -9,7 +9,7 @@ Nim zaczniesz, upewnij się, że posiadasz w systemie następujące zależności
 
 * openssl-1.0
 
-Wszystkie z nich znajdziesz w AUR (Arch User Repository).
+Wszystkie z nich znajdziesz w repozytorium dystrybucji lub AUR.
 
 1. Pobieramy PKGBUILD z AUR bądź z Githuba
 
